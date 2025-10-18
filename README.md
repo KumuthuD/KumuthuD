@@ -10,18 +10,50 @@
 
 ---
 
-### 👨‍💻 About Me
-I’m an enthusiastic undergraduate passionate about building impactful and user-friendly software solutions.  
-I love exploring both **Front-end & Back-end development**, and I enjoy applying real-world problem-solving through code and design.  
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🔭 I’m currently working on **NexAttend** – a smart attendance management system using **multi-face recognition**  
-- 🌱 I’m currently learning **Java Programming, Full Stack Web Development, and Software Engineering Concepts**  
-- 💬 Ask me about **Web Development (Front-end & Back-end), Java & Python Programming, Database Management (SQL & SQLite), Software Engineering Concepts, My Sustainable Energy App Project for Sri Lanka, and Version Control (Git & GitHub)**  
-- 📫 How to reach me: **kumuthudahanayke@gmail.com**
+<p align="center">
+I’m an enthusiastic undergraduate passionate about building impactful and user-friendly software solutions.<br>
+I love exploring both <b>Front-end & Back-end development</b>, and I enjoy applying real-world problem-solving through code and design.
+</p>
+
+<p align="center">
+ 🔭 I’m currently working on <b>NexAttend</b> – a smart attendance management system using <b>multi-face recognition</b>
+</p>
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">🌱 I’m Currently Learning</h3>
+
+<p align="center">
+  • Java Programming <br>
+  • Full Stack Web Development <br>
+  • Software Engineering Concepts
+</p>
+
+---
+
+<h3 align="center">💬 Ask Me About</h3>
+
+<p align="center">
+  • Web Development (Front-end & Back-end) <br>
+  • Java & Python Programming <br>
+  • Database Management (SQL & SQLite) <br>
+  • Software Engineering Concepts <br>
+  • My Sustainable Energy App Project for Sri Lanka <br>
+  • Version Control (Git & GitHub)
+</p>
+
+---
+
+<h3 align="center">📫 How to Reach Me</h3>
+<p align="center">
+  <b>Email:</b> kumuthudahanayke@gmail.com
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/kumuthu-dahanayake-52a979348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,7 +68,7 @@ I love exploring both **Front-end & Back-end development**, and I enjoy applying
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -52,7 +84,7 @@ I love exploring both **Front-end & Back-end development**, and I enjoy applying
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumuthud&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -67,16 +99,18 @@ I love exploring both **Front-end & Back-end development**, and I enjoy applying
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kumuthud&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ✨ Fun Fact
-> I love combining creativity with technology — whether it’s developing a smart app, designing an interface, or exploring new ways to solve real-world challenges!
+<h3 align="center">✨ Fun Fact</h3>
+<p align="center">
+I love combining creativity with technology — whether it’s developing a smart app, designing an interface, or exploring new ways to solve real-world challenges!
+</p>
 
 ---
 
-⭐ **“Code. Learn. Build. Repeat.”**
+<p align="center">⭐ <b>“Code. Learn. Build. Repeat.”</b></p>

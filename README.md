@@ -25,7 +25,7 @@ I love exploring both <b>Front-end & Back-end development</b>, and I enjoy apply
 
 <h3 align="center">🌱 I’m Currently Learning</h3>
 
-<p align="center">
+<p>
   • Java Programming <br>
   • Full Stack Web Development <br>
   • Software Engineering Concepts
@@ -35,7 +35,7 @@ I love exploring both <b>Front-end & Back-end development</b>, and I enjoy apply
 
 <h3 align="center">💬 Ask Me About</h3>
 
-<p align="center">
+<p>
   • Web Development (Front-end & Back-end) <br>
   • Java & Python Programming <br>
   • Database Management (SQL & SQLite) <br>
